@@ -17,3 +17,7 @@ D-E-P-L-O-Y
 ## How To Contribute
 
 Just do it!
+
+### Copyright
+
+Git.Training 2022
