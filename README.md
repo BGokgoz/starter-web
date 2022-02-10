@@ -16,7 +16,7 @@ D-E-P-L-O-Y
 
 ## How To Contribute
 
-Just do it!
+Please fork this rep. Then, issue a Pull Req.
 
 ### Copyright
 
