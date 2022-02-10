@@ -12,5 +12,8 @@ Sample website with plenty of files for demos
 
 ## Deployment
 
+D-E-P-L-O-Y
 
 ## How To Contribute
+
+Just do it!
