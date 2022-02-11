@@ -20,4 +20,4 @@ Please fork this rep. Then, issue a Pull Req.
 
 ### Copyright
 
-Git.Training 2022
+Git.Training 2022 All Rights Reserved.
