@@ -4,7 +4,7 @@ This repository is for showing how Git and GitHub work
 
 ## Introduction
 
-Dummy intro text.
+Dummy intro text. THE LINE THAT WILL BE USED FOR REBASING DEMONSTRATION.
 
 ## Purpose
 
